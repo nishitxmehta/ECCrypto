@@ -230,7 +230,7 @@ int main()
     P2 = keyGeneration(k, PB, a, p);
     P3 = keyGeneration(k, PA, a, p);
 
-    ifstream file("file.txt");
+    ifstream file("message.txt");
     if (file.fail())
         cout << "Error in your file.";
     else
