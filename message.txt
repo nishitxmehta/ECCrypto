@@ -1,0 +1,1 @@
+Elliptic Curve Cryptography (ECC) - the hidden gem of encryption. With ECC, we achieve robust security with smaller keys, enhancing digital protection without compromising performance. In today's interconnected landscape, ECC is the safeguard for your sensitive data.
