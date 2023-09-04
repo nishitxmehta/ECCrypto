@@ -16,8 +16,8 @@ Welcome to ECCrypto, a C++ cryptographic algorithm project that leverages Ellipt
 
 To get started with ECCrypto, follow these steps:
 1.	Clone this repository to your local machine: <i>git clone https://github.com/nishitxmehta/ECCrypto.git</i>
-2.	Compile <b>'ECCrypto.cpp'</b>.
-3.	Prepare your message in <b>'message.txt'</b>.
+2.  Prepare your message in <b>'message.txt'</b>.
+3.	Compile <b>'ECCrypto.cpp'</b>.
 4.	Run the compiled program.
 5.	Follow the on-screen instructions for encryption and decryption.
 
