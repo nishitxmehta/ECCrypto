@@ -1,4 +1,4 @@
-# ECCrypto: Elliptic Curve Cryptography in C++
+# ECCrypto: Asymmetric Cryptographic Algorithm
 
 ## Overview
 
