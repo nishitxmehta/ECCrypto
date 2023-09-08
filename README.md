@@ -6,24 +6,27 @@ Welcome to ECCrypto, a C++ cryptographic algorithm project that leverages Ellipt
 
 ## Key Features
 
-1.  <b>Elliptic Curve Cryptography:</b> ECCrypto harnesses the power of ECC, known for its robust security.
-2.  <b>Character-to-Point Conversion:</b> ECCrypto's innovation involves converting characters into points on elliptic curves enhancing data security.
-3.  <b>Public Key Cryptosystem:</b> ECCrypto generates private and public keys for both sender and receiver, establishing a secure communication channel.
-4.  <b>Message Encryption:</b> You can encrypt messages using the receiver's public key, ensuring confidentiality during transmission.
-5.  <b>Message Decryption:</b> Decrypt messages using the receiver's private key, restoring the original content.
+1.  **Elliptic Curve Cryptography:** ECCrypto harnesses the power of ECC, known for its robust security.
+2.  **Character-to-Point Conversion:** ECCrypto's innovation involves converting characters into points on elliptic curves enhancing data security.
+3.  **Public Key Cryptosystem:** ECCrypto generates private and public keys for both sender and receiver, establishing a secure communication channel.
+4.  **Message Encryption:** You can encrypt messages using the receiver's public key, ensuring confidentiality during transmission.
+5.  **Message Decryption:** Decrypt messages using the receiver's private key, restoring the original content.
 
 ## Getting Started
 
-To get started with ECCrypto, follow these steps:
-1.	Clone this repository to your local machine: <i>git clone https://github.com/nishitxmehta/ECCrypto.git</i>
-2.  Prepare your message in <b>'message.txt'</b>.
-3.	Compile <b>'ECCrypto.cpp'</b>.
+To get started with **ECCrypto**, follow these steps:
+1.	Clone this repository to your local machine:
+```markdown
+git clone https://github.com/nishitxmehta/ECCrypto.git
+```
+2.  Prepare your message in `message.txt` file.
+3.	Compile `ECCrypto.cpp` file.
 4.	Run the compiled program.
 5.	Follow the on-screen instructions for encryption and decryption.
 
 ## Contributions
 
-[Nishit Mehta](https://www.linkedin.com/in/nishit-mehta-41b85815b/)
+[Nishit Mehta](https://www.linkedin.com/in/nishitmehta-/)
 
 ## License
 
