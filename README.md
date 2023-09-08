@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to ECCrypto, a C++ cryptographic algorithm project that leverages Elliptic Curve Cryptography (ECC) with a unique twist. ECCrypto operates within a public key cryptosystem, generating private and public keys for both sender and receiver. The core feature of ECCrypto is the conversion of characters from the text file <b>'message.txt'</b> into points on elliptic curves, ensuring secure communication. This project allows you to encrypt messages using the receiver's public key and decrypt them with the receiver's private key.
+Welcome to ECCrypto, a C++ cryptographic algorithm project that leverages Elliptic Curve Cryptography (ECC) with a unique twist. ECCrypto operates within a public key cryptosystem, generating private and public keys for both sender and receiver. The core feature of ECCrypto is the conversion of characters from the text file `message.txt` into points on elliptic curves, ensuring secure communication. This project allows you to encrypt messages using the receiver's public key and decrypt them with the receiver's private key.
 
 ## Key Features
 
@@ -14,7 +14,7 @@ Welcome to ECCrypto, a C++ cryptographic algorithm project that leverages Ellipt
 
 ## Getting Started
 
-To get started with **ECCrypto**, follow these steps:
+To get started with ECCrypto, follow these steps:
 1.	Clone this repository to your local machine:
 ```markdown
 git clone https://github.com/nishitxmehta/ECCrypto.git
