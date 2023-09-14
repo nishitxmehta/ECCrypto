@@ -6,11 +6,11 @@ Welcome to ECCrypto, a C++ cryptographic algorithm project that leverages Ellipt
 
 ## Key Features
 
-1.  **Elliptic Curve Cryptography:** ECCrypto harnesses the power of ECC, known for its robust security.
-2.  **Character-to-Point Conversion:** ECCrypto's innovation involves converting characters into points on elliptic curves enhancing data security.
-3.  **Public Key Cryptosystem:** ECCrypto generates private and public keys for both sender and receiver, establishing a secure communication channel.
-4.  **Message Encryption:** You can encrypt messages using the receiver's public key, ensuring confidentiality during transmission.
-5.  **Message Decryption:** Decrypt messages using the receiver's private key, restoring the original content.
+-  **Elliptic Curve Cryptography:** ECCrypto harnesses the power of ECC, known for its robust security.
+-  **Character-to-Point Conversion:** ECCrypto's innovation involves converting characters into points on elliptic curves enhancing data security.
+-  **Public Key Cryptosystem:** ECCrypto generates private and public keys for both sender and receiver, establishing a secure communication channel.
+-  **Message Encryption:** You can encrypt messages using the receiver's public key, ensuring confidentiality during transmission.
+-  **Message Decryption:** Decrypt messages using the receiver's private key, restoring the original content.
 
 ## Getting Started
 
